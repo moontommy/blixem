@@ -3,9 +3,9 @@
   command = "cd exampleSite && hugo --themesDir ../.."
   
 [build.environment]
-  HUGO_VERSION = "0.60.1"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://minimal-bootstrap-hugo-theme.netlify.app"
+  HUGO_VERSION = "0.118.2"
+  HUGO_THEME = "blixem"
+  HUGO_BASEURL = "https://blixem-hugo-theme.netlify.app"
 
 [[headers]]
   for = "/*"
