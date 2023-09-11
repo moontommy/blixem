@@ -4,7 +4,7 @@
   
 [build.environment]
   HUGO_VERSION = "0.118.2"
-  HUGO_THEME = "blixem"
+  HUGO_THEME = "repo"
   HUGO_BASEURL = "https://blixem-hugo-theme.netlify.app"
 
 [[headers]]
