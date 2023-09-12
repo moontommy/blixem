@@ -7,7 +7,9 @@ date: "2023-09-12"
 
 Thanks for visiting the Blixem demo.
 
-Check out the source code at [https://github.com/moontommy/blixem] so you can play around with it.
+Blixem is a lightning fast minimal hugo theme based on Zachary Betz's [minimal-bootstrap-hugo-theme](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme) theme.
+
+Check out our source code at [Github](https://github.com/moontommy/blixem) so you can play around with it.
 
 ## Hugo
 
