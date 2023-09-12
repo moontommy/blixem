@@ -1,10 +1,4 @@
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-**WARNING:** This repo is no longer maintained. It's archived and read-only.
-
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-# Minimal Bootstrap Hugo Theme
+Blixem Hugo Theme
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3929c16-50cc-4e8f-a8f2-e63acc35c83d/deploy-status)](https://app.netlify.com/sites/minimal-bootstrap-hugo-theme/deploys)
 
@@ -12,6 +6,7 @@ A minimal hugo theme made with bootstrap that focuses on content readability.
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Demo](#demo)
 - [Minimum Hugo version](#minimum-hugo-version)
 - [Installation](#installation)
@@ -29,23 +24,23 @@ A minimal hugo theme made with bootstrap that focuses on content readability.
   - [`imgRel`](#imgrel)
   - [`imgProc`](#imgproc)
   - [`mastodon`](#mastodon)
-  - [`fileRel`](#fileRel) 
+  - [`fileRel`](#filerel)
 - [Getting help](#getting-help)
 
 ## Demo
 
-https://minimal-bootstrap-hugo-theme.netlify.com/
+https://blixem-hugo-theme.netlify.com/
 
 ## Minimum Hugo version
 
-Hugo version `0.60.1` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
+Hugo version `0.118.2` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
 
 ## Installation
 
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git themes/minimal-bootstrap-hugo-theme
+git submodule add https://github.com/moontommy/blixem.git themes/blixem
 ```
 
 ## Updating
@@ -58,7 +53,7 @@ git submodule update --remote --merge
 
 ## Run example site
 
-From the root of `themes/minimal-bootstrap-hugo-theme/exampleSite`:
+From the root of `themes/blixem/exampleSite`:
 
 ```
 hugo server --themesDir ../..

@@ -1,11 +1,13 @@
 ---
 title: "About"
-date: "2014-04-09"
+date: "2023-09-12"
 ---
 
-## This Theme
+## Blixem Theme
 
-Thanks for visiting this theme demo. If you're interested, checkout my other stuff over at <https://zwbetz.com>
+Thanks for visiting the Blixem demo.
+
+Check out the source code at [https://github.com/moontommy/blixem] so you can play around with it.
 
 ## Hugo
 
@@ -20,9 +22,3 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
----
-
-<small>
-_Favicon made by [Freepik](https://www.freepik.com/), from [Flaticon](https://www.flaticon.com/), licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/)._
-</small>
