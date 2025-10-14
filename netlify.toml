@@ -3,7 +3,7 @@
   command = "cd exampleSite && hugo --themesDir ../.."
   
 [build.environment]
-  HUGO_VERSION = "0.150.0"
+  HUGO_VERSION = "0.151.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "https://blixem-hugo-theme.netlify.app"
 
